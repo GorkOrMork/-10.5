@@ -23,10 +23,14 @@ Weighted Round Robin - это улучшенный вариант Round Robin, �
 
 Установите и запустите Haproxy.
 
+![image](https://user-images.githubusercontent.com/109193124/231523195-98c5a642-b361-46fe-b8bc-0bdeda25fe48.png)
+
 
 ### Задание 4
 
 Установите и запустите Nginx.
+
+![image](https://user-images.githubusercontent.com/109193124/231523278-05dcbf2f-a0be-40da-b178-ab15466c68e5.png)
 
 
 ### Задание 5
@@ -35,6 +39,11 @@ Weighted Round Robin - это улучшенный вариант Round Robin, �
 curl http://localhost:8088/ping
 он возвращал в ответе строчку:
 "nginx is configured correctly".
+
+![image](https://user-images.githubusercontent.com/109193124/231523519-4715dfc1-5d55-406c-ab7b-f76a0db5ec5d.png)
+
+![image](https://user-images.githubusercontent.com/109193124/231523803-21eb7236-f21e-4535-9e5c-125c32948d91.png)
+
 
 
 
